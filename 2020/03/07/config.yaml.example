@@ -1,0 +1,33 @@
+ciks:
+  1568887:
+    name: Ashmore Wealth Management
+  1330709:
+    name: Argyll Research
+  1540796:
+    name: Clifton Park Capital Management
+  1568990:
+    name: Cortland Advisers
+  1694584:
+    name: Elkfork Partners
+  1454984:
+    name: Ensign Peak Advisors
+  1696726:
+    name: Flinton Capital Management
+  1696417:
+    name: Glen Harbor Capital Management
+  1568338:
+    name: Green Valley Investors
+  1695508:
+    name: Meadow Creek Investment Management
+  1693800:
+    name: Neuburgh Advisers
+  1568679:
+    name: Riverhead Capital Management
+  1568680:
+    name: Tiverton Asset Management
+  1694909:
+    name: Tyers Asset Management
+holdings_filename: holdings.json
+results_dir: results
+url: 
+  base: https://jivedata.com/13F?length=1000&detail=true&cik=
